@@ -1,0 +1,3 @@
+Fully working example of Rails 3.0.3  with Backbone.JS
+It follows the steps in http://www.jamesyu.org/2011/01/27/cloudedit-a-backbone-js-tutorial-by-example/
+but it includes all the configuration files (assets.yml, etc) and adjustments to work with the latest version of Backbone (0.3.3) and corrects parts in the original tutorial.
